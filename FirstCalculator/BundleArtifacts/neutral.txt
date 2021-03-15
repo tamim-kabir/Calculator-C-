@@ -1,0 +1,6 @@
+MainPackage=C:\Users\mdaha\source\repos\Calculator\FirstCalculator\bin\AnyCPU\Debug\FirstCalculator_1.0.1.0_AnyCPU_Debug.msix
+SymbolPackage=C:\Users\mdaha\source\repos\Calculator\FirstCalculator\obj\Debug\Symbols\FirstCalculator_1.0.1.0_AnyCPU_Debug.appxsym
+ResourcePack=C:\Users\mdaha\source\repos\Calculator\FirstCalculator\bin\AnyCPU\Debug\FirstCalculator_1.0.1.0_scale-100.msix
+ResourcePack=C:\Users\mdaha\source\repos\Calculator\FirstCalculator\bin\AnyCPU\Debug\FirstCalculator_1.0.1.0_scale-125.msix
+ResourcePack=C:\Users\mdaha\source\repos\Calculator\FirstCalculator\bin\AnyCPU\Debug\FirstCalculator_1.0.1.0_scale-150.msix
+ResourcePack=C:\Users\mdaha\source\repos\Calculator\FirstCalculator\bin\AnyCPU\Debug\FirstCalculator_1.0.1.0_scale-400.msix

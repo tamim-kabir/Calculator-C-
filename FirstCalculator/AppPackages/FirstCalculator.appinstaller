@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Users/mdaha/Documents/installer/FirstCalculator.appinstaller"
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="5375c64a-603d-45cc-8b3b-58592f6a5de7"
+		Version="1.0.1.0"
+		Publisher="CN=Ahasanul Kabir"
+		Uri="file:///C:/Users/mdaha/Documents/installer/FirstCalculator_1.0.1.0_Debug_Test/FirstCalculator_1.0.1.0_AnyCPU_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
